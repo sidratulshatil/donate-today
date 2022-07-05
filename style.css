@@ -107,6 +107,8 @@ body {
     width: 100%;
     text-align: center;
     border-bottom: 2px solid rgb(200, 197, 197);
+    width: 50%;
+    margin-left: 330px;
 }
 
 .third-1 {
